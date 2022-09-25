@@ -1,0 +1,22 @@
+PODS:
+  - accessibility_post (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - accessibility_post (from `.symlinks/plugins/accessibility_post/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  accessibility_post:
+    :path: ".symlinks/plugins/accessibility_post/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  accessibility_post: fc45a8a16aa7350f72c9887d4d88808ad6d8c572
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
